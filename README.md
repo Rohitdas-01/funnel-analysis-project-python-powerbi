@@ -122,32 +122,47 @@ funnel-analysis-project-python-powerbi/
 ## <a id="eda-insights"></a>🧠 EDA Insights (Key Findings)
 
 ### 🔹 Funnel Performance
-- Total sessions analyzed: **21,663**
-- Highest drop-off at **Checkout → Purchase**
-- Significant drop between **Add to Cart → Checkout**
-- Bounce sessions indicate early exits with low engagement
+- Total Sessions: **10,000**
+- Total Orders: **1,080**
+- Overall Conversion Rate: **10.80%**
+- Bounce Rate: **89.20%**
+- Highest drop-off occurs at the **Checkout → Purchase** stage
+- Significant user drop-off also seen between **Add to Cart → Checkout**
 
-### 🔹 Traffic Channel Insights
-- Certain channels contribute high traffic but poor funnel movement  
-- Channels with high bounce rates negatively influence conversions  
-- A few channels deliver strong, high-intent users  
+---
 
-### 🔹 Regional Performance
-- Some regions show **stronger conversion efficiency**  
-- Others drive high sessions but **low revenue contribution**
+### 🔹 Stage-to-Stage Conversion Rates
+- **Browse → Add to Cart:** **70.59%**
+- **Add to Cart → Checkout:** **49.92%**
+- **Checkout → Purchase:** **30.65%**
 
-### 🔹 Product Category Behavior
-- Few categories reflect **high engagement** and **better purchase likelihood**  
-- Some categories attract views but fail to convert
+These values show the exact stages where users exit the funnel and where optimization is needed.
+
+---
 
 ### 🔹 Revenue Insights
-- Strong revenue generated at final funnel stage  
-- **Average order value stable** across product categories  
-- Revenue per session increases significantly at deeper stages
+- **Total Revenue:** **₹11,76,405.78**
+- **Average Order Value (AOV):** **₹1,089.26**
+- **Revenue per session by stage:**
+  - Browse Session: **₹117.64**
+  - Add to Cart Session: **₹166.65**
+  - Checkout Session: **₹333.83**
+
+Revenue increases significantly as users move deeper into the funnel.
+
+---
 
 ### 🔹 Engagement Metrics
-- Longer session duration correlates with higher funnel advancement  
-- Short sessions heavily contribute to the bounce rate  
+- **Average Session Duration:** **4.08 minutes**
+- Longer sessions show higher likelihood of progressing through the funnel
+- Shorter sessions are strongly linked to bounce behavior
+
+---
+
+### 🔹 Key Takeaways
+- Major optimization is needed at the checkout stage to reduce final drop-offs
+- High bounce rate indicates many users leave without meaningful engagement
+- Improving user experience and session engagement can positively impact conversion
 
 ---
 
